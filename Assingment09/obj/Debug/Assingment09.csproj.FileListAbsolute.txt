@@ -1,0 +1,7 @@
+C:\Aptech\AP\Assingment09\Assingment09\bin\Debug\Assingment09.exe.config
+C:\Aptech\AP\Assingment09\Assingment09\bin\Debug\Assingment09.exe
+C:\Aptech\AP\Assingment09\Assingment09\bin\Debug\Assingment09.pdb
+C:\Aptech\AP\Assingment09\Assingment09\obj\Debug\Assingment09.csprojAssemblyReference.cache
+C:\Aptech\AP\Assingment09\Assingment09\obj\Debug\Assingment09.csproj.CoreCompileInputs.cache
+C:\Aptech\AP\Assingment09\Assingment09\obj\Debug\Assingment09.exe
+C:\Aptech\AP\Assingment09\Assingment09\obj\Debug\Assingment09.pdb
